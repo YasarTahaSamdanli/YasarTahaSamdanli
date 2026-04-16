@@ -1,6 +1,6 @@
 #  Ben Yaşar 
 
-### 🎓 Bilgisayar Programcılığı Öğrencisi | Eskişehir Osmangazi Üniversitesi
+###  Bilgisayar Programcılığı Öğrencisi | Eskişehir Osmangazi Üniversitesi
 
 Yazılım geliştirme ve siber güvenlik dünyasında kendimi geliştiriyorum. Python ile otomasyonlar, Unity ile oyunlar ve web teknolojileri üzerine projeler üretiyorum.
 
