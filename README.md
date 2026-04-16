@@ -9,7 +9,7 @@ Yazılım geliştirme ve siber güvenlik dünyasında kendimi geliştiriyorum. P
 
 ### 📂 Öne Çıkan Projeler
 
-* **[Fingo](https://github.com/YasarTahaSamdanli/Fingo-WEB):** Web sitesinde finans ve stok yönetim sistemi ve veri çeken bir masaüstüuygulması.
+* **[Fingo](https://github.com/YasarTahaSamdanli/Fingo-WEB):** Web sitesinde finans ve stok yönetim sistemi ve veri çeken bir masaüstü uygulması.
 * **[OtoKantar-V7](https://github.com/YasarTahaSamdanli/OtoKantar-V7):** Plaka tanıma ve kantar otomasyon entegrasyonu.
 * **[Mr. Robot Writeup](https://github.com/YasarTahaSamdanli/Mr.-Robot-CTF-Writeup):** Uygulamalı siber güvenlik ve sızma testi analizi.
 
