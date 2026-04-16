@@ -17,8 +17,8 @@ Yazılım geliştirme ve siber güvenlik dünyasında kendimi geliştiriyorum. P
 
 
 ###  Teknolojiler & Araçlar
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Python](https://github.com/YasarTahaSamdanli/YasarTahaSamdanli/blob/main/06NE944_2026-04-15_19-12-36_GIRIS.jpg)
+![Unity](https://github.com/YasarTahaSamdanli/YasarTahaSamdanli/blob/main/oyun.png)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
