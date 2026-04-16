@@ -5,6 +5,15 @@
 Yazılım geliştirme ve siber güvenlik dünyasında kendimi geliştiriyorum. Python ile otomasyonlar, Unity ile oyunlar ve web teknolojileri üzerine projeler üretiyorum.
 
 ---
+---
+
+### 📂 Öne Çıkan Projeler
+
+* **[Fingo](https://github.com/YasarTahaSamdanli/Fingo):** Python tabanlı finans ve stok yönetim sistemi.
+* **[OtoKantar-V7](https://github.com/YasarTahaSamdanli/OtoKantar-V7):** Plaka tanıma ve kantar otomasyon entegrasyonu.
+* **[Mr. Robot Writeup](https://github.com/YasarTahaSamdanli/Mr.-Robot-CTF-Writeup):** Uygulamalı siber güvenlik ve sızma testi analizi.
+
+---
 
 ###  Nelerle İlgileniyorum?
 -  **Oyun Geliştirme:** Şu an aktif olarak Unity ile  bir oyun üzerinde çalışıyorum.
